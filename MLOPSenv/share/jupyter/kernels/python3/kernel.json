@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "c:/Users/HP/Desktop/End-to-End/End-to-end-ML-Project-with-ML-Flow/MLOPSenv\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}
